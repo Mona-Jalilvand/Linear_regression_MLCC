@@ -1,4 +1,4 @@
-# Linear_regression_MLCC 
+# Linear regression MLCC 
 Linear regression example from Google Machine Learning Crash Course (https://developers.google.com/machine-learning/crash-course)
 
 This Jupyter Notebook demonstrates how to build a linear regression model to predict taxi fares based on various features.
