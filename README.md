@@ -3,11 +3,11 @@ Linear regression example from Google Machine Learning Crash Course (https://dev
 
 This Jupyter Notebook demonstrates how to build a linear regression model to predict taxi fares based on various features.
 
-Notebook Structure:
+## Notebook Structure
 
-1- Data Loading: Load the taxi fare dataset into a Pandas DataFrame.
-2- Data Exploration: Analyze the dataset's characteristics, including shape, data types, and summary statistics.
-3- Data Preprocessing: Clean and prepare the data for modeling, such as handling missing values and outliers.
+* **Data Loading**: Load the taxi fare dataset into a Pandas DataFrame.
+* **Data Exploration**: Analyze the dataset's characteristics, including shape, data types, and summary statistics.
+  * **Data Preprocessing**: Clean and prepare the data for modeling, such as handling missing values and outliers.
 4- Feature Engineering: Create new features or transform existing ones to improve model performance.
 5- Model Training: Train a linear regression model using **Keras library**
 6- Model Evaluation: Assess the model's accuracy using metrics like mean squared error (MSE) and R-squared.
